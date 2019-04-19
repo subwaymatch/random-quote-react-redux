@@ -1,7 +1,8 @@
 # random-quote-react-redux
 A random "quote on design" quote app using react-redux. This is a personal exercise. 
 <br />
-[Site Preview](https://random-design-quotes.netlify.com/)
+- [See Demo](https://random-design-quotes.netlify.com/)
+- [See CodeSandbox](https://codesandbox.io/s/github/subwaymatch/random-quote-react-redux)
 
 ![image](https://user-images.githubusercontent.com/1064036/56364432-6135f380-61a3-11e9-9f74-3f4ce0c36be6.png)
 
